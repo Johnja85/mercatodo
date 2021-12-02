@@ -1,0 +1,6 @@
+models:
+ Users:
+   user: string
+   password: password
+
+
